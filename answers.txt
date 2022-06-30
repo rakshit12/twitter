@@ -1,0 +1,13 @@
+Question 2
+Since i am a very big fan of anime so recently, i found my favrioute anime dataset which is of naruto dataset which consist of all its character stats like attack ,defense,power used ,type etc though this dataset has no real meaning but it is from my favrioute anime so i liked it so much.
+
+Question 3
+To answer this question lets assume two scenario:-
+1) An organization which has lot of changes in data where data is not static also has large amount of data
+2) An indivisula who collects data on very small level who can keep all thouse data in excel or any text or csv file
+Since now in modern time where Big data has introduced ,streaming data is introduced we need fast processing of data ,also want to store large amount of data in a meaningfull way so we require database  also storing data in a structure way will also make data fetching eassy.Transfering of data from one location to another to a very far location can also becomes very eassy even if data is of very large quantity.
+But if we compare it to file storage we can store data but on indivisual level where we dont need to process those data very much which is nowdays very less frequently used.
+
+
+Question 4
+During my internship as sql devloper i also have to work on linux operating system so i have a good knowledge of unix commad also in tcs where i worked for only two month i got trainig in unix scripting language too.
